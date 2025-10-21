@@ -46,6 +46,7 @@ TABULAR COLUMN
 Rectifier without filter
 TABULAR COLUMN
 Rectifier with filter
+![talcolumn](https://github.com/user-attachments/assets/f00aff55-f704-42a2-b3b8-63d58849dc50)
 
 WAVEFORM:
 ![wave form](https://github.com/user-attachments/assets/1e47e7fe-870a-417f-be66-16e783323cca)
