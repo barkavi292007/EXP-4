@@ -37,8 +37,10 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
+![hw rectifier](https://github.com/user-attachments/assets/437d6085-cb76-484d-b37b-db9b151253ed)
 
 Bridge rectifier with filter:
+![bridge rectifier](https://github.com/user-attachments/assets/5e5290b5-02f6-40f4-9c06-9ebcbbfc10a6)
 
 TABULAR COLUMN
 Rectifier without filter
@@ -46,6 +48,7 @@ TABULAR COLUMN
 Rectifier with filter
 
 WAVEFORM:
+![wave form](https://github.com/user-attachments/assets/1e47e7fe-870a-417f-be66-16e783323cca)
 
 
 RESULT:
